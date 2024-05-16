@@ -1,17 +1,6 @@
 package com.example.threadpractice;
 
-import com.example.threadpractice.model.Person;
-import com.example.threadpractice.thread.ThreadPractice;
-import jdk.jfr.Percentage;
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 @SpringBootApplication
 public class ThreadPracticeApplication
